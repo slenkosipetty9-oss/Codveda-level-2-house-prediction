@@ -1,24 +1,17 @@
-# Codveda-level-2-house-prediction
+# Codveda Level 2 Projects
 
-Codveda Internship Level 2: House Price Prediction using Python, EDA, and Linear Regression
+Codveda Data Science Internship - Level 2 Complete
 
-## Project Details
-This project predicts house prices based on features like area, bedrooms, bathrooms, etc. using the House Prediction Dataset.  
-The goal is to perform Exploratory Data Analysis and build a Linear Regression model to forecast prices.
+## Project 1: House Price Prediction
+**File**: `House_Regression.ipynb`
+- Predicted house prices using Linear Regression
+- Data Cleaning, EDA, Feature Engineering
+- Model Evaluation with R2 Score
 
-## Files
-- `House_Regression(1).ipynb` - Complete code for data cleaning, EDA, model training, and evaluation
-- `4) house Prediction Data Set.csv` - Dataset used for training and testing the model
+## Project 2: Advanced Iris Classification  
+**File**: `iris_classification.ipynb`
+- Classified Iris species using Logistic Regression, SVM, Random Forest
+- Cross-Validation and Accuracy Comparison
+- Confusion Matrix Visualization
 
-## Key Learnings
-- Data preprocessing and handling missing values
-- Exploratory Data Analysis with matplotlib and seaborn
-- Feature selection and correlation analysis
-- Building and evaluating Linear Regression models
-- Calculating RMSE, R2 score for model performance
-
-## Tools Used
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
-
-## Results
-The model was trained to predict house prices and evaluated using regression metrics.
+**Tools**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
